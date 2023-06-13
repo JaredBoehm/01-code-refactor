@@ -12,7 +12,7 @@ NA
 
 The end result can be viewed [here.](https://jaredboehm.github.io/01-code-refactor/)
 
-![Website Screenshot](assets/images/website-screenshot.png)
+![Website Screenshot](assets/images/website-screenshot.PNG)
 
 ## License
 
